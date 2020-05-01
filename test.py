@@ -1,5 +1,5 @@
-#import redis
-import os
+print("Git is cool!")
+
 
 class Employee:
     """A sample Employee class."""

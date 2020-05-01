@@ -2,8 +2,6 @@
 import requests
 
 r = requests.get
-for i in range(1):
-    print(5)
 
 
 class Employee:

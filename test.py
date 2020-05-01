@@ -1,8 +1,5 @@
 #import redis
-import requests
-
-r = requests.get
-
+import os
 
 class Employee:
     """A sample Employee class."""
